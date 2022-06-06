@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         pingcodeHelper
 // @namespace    http://tampermonkey.net/
-// @version      3.24
+// @version      3.25
 // @description  hack pingcode
 // @author       Amos
 // @match        https://onetoken.pingcode.com/*
